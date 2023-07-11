@@ -1,4 +1,12 @@
-### Hi there 👋
+# R Elliot Meyer's GitHub
+
+Hello! My name is R Elliot Meyer. I'm presently a Postdocotral Researcher at the University of Oxford conducting research & development on several topics including a next-generation planet imaging instrument for the Extremely Large Telescope. 
+
+My other projects include analyzing the optical wavefront performance of Volume Phase Holographic gratings and, more recently, building deep learning models to automatically identify optical aberrations present in astronomical instruments. 
+
+Below you can find some of my projects, mostly written Python. Many of them relate to the development of the Wide Integral Field Infrared Spectrograph including instrument control, data reduction, data processing, and data analysis packages. There are also a few small personal projects including some web-scrapers, analysis packages, and a embedded electronics.
+
+Please feel free to reach out to me at [elliot.meyer@physics.ox.ac.uk](elliot.meyer@physics.ox.ac.uk).
 
 <!--
 **REMeyer/REMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
